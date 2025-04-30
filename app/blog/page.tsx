@@ -7,7 +7,7 @@ const blogPosts = [
     title: "The Science Behind Effective Diet Planning",
     excerpt:
       "Discover how AI-powered tools like DietWise use nutritional science to create personalized meal plans that actually work.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-1.png",
     date: "May 15, 2023",
     readTime: "5 min read",
     slug: "science-behind-effective-diet-planning",
@@ -18,7 +18,7 @@ const blogPosts = [
     title: "5 Common Diet Myths Debunked",
     excerpt:
       "Let's separate fact from fiction when it comes to popular dieting advice and how tools like DietWise can help you make informed choices.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-2.jpg",
     date: "June 2, 2023",
     readTime: "4 min read",
     slug: "common-diet-myths-debunked",
@@ -29,7 +29,7 @@ const blogPosts = [
     title: "How to Maintain a Balanced Diet with a Busy Schedule",
     excerpt:
       "Struggling to eat healthy with a packed calendar? Learn how DietWise can help you plan nutritious meals even on your busiest days.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-3.jpg",
     date: "June 18, 2023",
     readTime: "6 min read",
     slug: "balanced-diet-busy-schedule",
@@ -40,7 +40,7 @@ const blogPosts = [
     title: "Understanding Macros: A Beginner's Guide",
     excerpt:
       "Learn the basics of macronutrients and how tracking them with DietWise can help you reach your health and fitness goals faster.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-4.jpg",
     date: "July 5, 2023",
     readTime: "7 min read",
     slug: "understanding-macros-beginners-guide",
@@ -51,7 +51,7 @@ const blogPosts = [
     title: "The Psychology of Eating: How AI Can Help Build Better Habits",
     excerpt:
       "Explore the psychological aspects of eating habits and how AI tools like DietWise can help you develop healthier relationships with food.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/diet-ai-1.jpg",
     date: "July 22, 2023",
     readTime: "8 min read",
     slug: "psychology-eating-ai-better-habits",
@@ -62,7 +62,7 @@ const blogPosts = [
     title: "Seasonal Eating: Why It Matters for Your Health and the Planet",
     excerpt:
       "Discover the benefits of eating seasonally and how DietWise can help you incorporate seasonal foods into your personalized meal plans.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/diet-ai-2.jpg",
     date: "August 10, 2023",
     readTime: "5 min read",
     slug: "seasonal-eating-health-planet",

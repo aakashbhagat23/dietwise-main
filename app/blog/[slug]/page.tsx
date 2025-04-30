@@ -9,7 +9,7 @@ const getBlogPost = (slug: string) => {
       title: "The Science Behind Effective Diet Planning",
       date: "May 15, 2023",
       readTime: "5 min read",
-      image: "/placeholder.svg?height=600&width=1200",
+      image: "/img-blog-post-1.png",
       category: "Nutrition Science",
       content: `
         <h2>Understanding Nutritional Science</h2>
@@ -42,7 +42,7 @@ const getBlogPost = (slug: string) => {
       title: "5 Common Diet Myths Debunked",
       date: "June 2, 2023",
       readTime: "4 min read",
-      image: "/placeholder.svg?height=600&width=1200",
+      image: "/img-blog-post-2.jpg",
       category: "Myth Busting",
       content: `
         <p>In the world of nutrition and dieting, misinformation spreads quickly. Let's separate fact from fiction by debunking some of the most common diet myths with science-backed evidence.</p>
@@ -82,7 +82,7 @@ const getBlogPost = (slug: string) => {
       title: "How to Maintain a Balanced Diet with a Busy Schedule",
       date: "June 18, 2023",
       readTime: "6 min read",
-      image: "/placeholder.svg?height=600&width=1200",
+      image: "/img-blog-post-3.jpg",
       category: "Lifestyle",
       content: `
         <p>Maintaining a balanced diet while juggling a busy schedule can feel like an impossible task. Between work deadlines, family responsibilities, and social commitments, nutrition often takes a backseat. But with the right strategies and tools like DietWise, eating healthy can become manageable even for the busiest individuals.</p>

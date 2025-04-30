@@ -8,7 +8,7 @@ const blogPosts = [
     title: "The Science Behind Effective Diet Planning",
     excerpt:
       "Discover how AI-powered tools like DietWise use nutritional science to create personalized meal plans that actually work.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-1.png",
     date: "May 15, 2023",
     readTime: "5 min read",
     slug: "science-behind-effective-diet-planning",
@@ -18,7 +18,7 @@ const blogPosts = [
     title: "5 Common Diet Myths Debunked",
     excerpt:
       "Let's separate fact from fiction when it comes to popular dieting advice and how tools like DietWise can help you make informed choices.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-2.jpg",
     date: "June 2, 2023",
     readTime: "4 min read",
     slug: "common-diet-myths-debunked",
@@ -28,7 +28,7 @@ const blogPosts = [
     title: "How to Maintain a Balanced Diet with a Busy Schedule",
     excerpt:
       "Struggling to eat healthy with a packed calendar? Learn how DietWise can help you plan nutritious meals even on your busiest days.",
-    image: "/placeholder.svg?height=300&width=500",
+    image: "/img-blog-post-3.jpg",
     date: "June 18, 2023",
     readTime: "6 min read",
     slug: "balanced-diet-busy-schedule",
