@@ -10,13 +10,13 @@ const features = [
     id: 1,
     title: "AI Diet Generator",
     description: "Get personalized meal plans created by our advanced AI based on your unique needs and preferences.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/diet-ai-1.jpg",
   },
   {
     id: 2,
     title: "Nutrition Tracking",
     description: "Easily track your calories, macros, and micronutrients to stay on top of your dietary goals.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/diet-ai-2.jpg",
     development: true,
   },
   {
@@ -24,21 +24,21 @@ const features = [
     title: "Custom Goal Setting",
     description:
       "Set specific health and fitness goals and let DietWise help you achieve them through smart diet planning.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/diet-ai-3.jpg",
     development: true,
   },
   {
     id: 4,
     title: "Dietary Filters",
     description: "Filter meal plans based on dietary preferences like vegan, keto, low-carb, and more.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/diet-ai-4.jpg",
     development: true,
   },
   {
     id: 5,
     title: "Recipe Library",
     description: "Access a growing library of delicious, nutritious recipes that match your dietary needs.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/diet-ai-5.jpg",
     development: true,
   },
 ]
