@@ -36,7 +36,7 @@ const Hero = () => {
               <div className="absolute -inset-1 bg-gradient-to-r from-emerald-600 to-teal-600 rounded-lg blur opacity-25"></div>
               <div className="relative bg-white dark:bg-slate-800 rounded-lg shadow-xl overflow-hidden">
                 <img
-                  src="/placeholder.svg?height=600&width=400"
+                  src="/image-hero.png"
                   alt="DietWise App Interface"
                   className="w-full h-auto"
                 />
